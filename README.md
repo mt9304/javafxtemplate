@@ -3,7 +3,7 @@
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
   - [Suggested Environment](#suggested-environment)
-  - [Installation](#Installation)
+  - [Installation](#installation)
 - [Extending Functions](#extending-functionality)
   - [Adding To UI](#adding-to-ui)
   - [Adding Settings](#adding-settings)
