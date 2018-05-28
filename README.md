@@ -25,7 +25,7 @@ This is a GUI template for starting new JavaFX projects. Most of the UI parts th
 3. [JavaFX SceneBuilder 8+](http://gluonhq.com/products/scene-builder/) for drag and drop UI builder
 4. Knowledge of [JavaFX](https://www.tutorialspoint.com/javafx/index.htm) and SceneBuilder
 
-### Installion
+### Installation
 1. In terminal, go to directory you want to save project in and type: 
 ```bash
 git clone https://github.com/mt9304/javafxtemplate.git
