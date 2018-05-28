@@ -2,3 +2,6 @@
 /.settings
 /nbproject/
 /bin/
+*applicationLog*
+*ApplicationLog*
+*EventLog*
