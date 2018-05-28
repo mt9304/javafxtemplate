@@ -27,11 +27,11 @@ This is a GUI template for starting new JavaFX projects. Most of the UI parts th
 
 ### Installion
 1. In terminal, go to directory you want to save project in and type: 
-```
+```bash
 git clone https://github.com/mt9304/javafxtemplate.git
 ```
 2. Go into project folder and type: 
-```
+```bash
 mvn install
 ```
 3. Build/Run the Main.java file in the javafxtemplate folder. 
@@ -65,7 +65,7 @@ mvn install
 
 
 Example for changing the color of an object in the scene: 
-```
+```java
 @FXML
 private void highlightButton(MouseEvent event)
 {
